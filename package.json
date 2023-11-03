@@ -1,0 +1,17 @@
+{
+  "name": "app-chat-bot",
+  "version": "0.0.1",
+  "description": "boOo_boom_bot",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "author": "",
+  "keywords": [],
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.64.0",
+    "nodemon": "^3.0.1"
+  }
+}
